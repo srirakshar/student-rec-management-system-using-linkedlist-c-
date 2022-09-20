@@ -1,7 +1,9 @@
-Student Record Management System using C
+Student Record Management System using C.
 
 
-Stores student details using Linked Lists
+Stores student details using Linked Lists.
+
+
 FUNCTIONS:
           1) insert
           2) search
